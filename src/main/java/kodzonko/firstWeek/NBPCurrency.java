@@ -27,6 +27,8 @@ public enum NBPCurrency {
         }
         return Optional.empty();
     }
-//    NBPCurrency currency = NBPCurrency.EURO;
+    //    NBPCurrency currency = NBPCurrency.EURO;
+//        System.out.println(currency); // EURO
+//        System.out.println(currency.getShortName()); // EUR
 
 }
